@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/TreeboAssignment/static/css/main.0a436677.css",
-    "main.js": "/TreeboAssignment/static/js/main.ad3e55ed.js",
+    "main.js": "/TreeboAssignment/static/js/main.eb02b2d6.js",
     "static/media/test.jpg": "/TreeboAssignment/static/media/test.c103f470d8ec66abd473.jpg",
     "static/media/sun.svg": "/TreeboAssignment/static/media/sun.339f5fcbe5d19f4a9af41251b03b2283.svg",
     "static/media/moon.svg": "/TreeboAssignment/static/media/moon.f43c67a800e2c0181aa454dee2444f98.svg",
     "index.html": "/TreeboAssignment/index.html",
     "main.0a436677.css.map": "/TreeboAssignment/static/css/main.0a436677.css.map",
-    "main.ad3e55ed.js.map": "/TreeboAssignment/static/js/main.ad3e55ed.js.map"
+    "main.eb02b2d6.js.map": "/TreeboAssignment/static/js/main.eb02b2d6.js.map"
   },
   "entrypoints": [
     "static/css/main.0a436677.css",
-    "static/js/main.ad3e55ed.js"
+    "static/js/main.eb02b2d6.js"
   ]
 }
